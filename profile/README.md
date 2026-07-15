@@ -21,7 +21,6 @@ The ultimate goal of Eclipse AutoWRX is to support digital value creation for OE
 | Repository       | Description |
 |------------------|-------------|
 | **[autowrx](https://github.com/eclipse-autowrx/autowrx)** | A TypeScript-based frontend application for visualizing vehicle data, simulation states, and interacting with SDV components. It serves as the main user interface for AutoWRX. |
-| **[backend-core](https://github.com/eclipse-autowrx/backend-core)** | JavaScript/Node.js backend providing REST and WebSocket APIs. It acts as a middleware between the frontend and data providers (e.g., CAN, GPS, simulation). |
 | **[sdv-runtime](https://github.com/eclipse-autowrx/sdv-runtime)** | A Python-based runtime environment designed to manage SDV logic, orchestrate services, and simulate vehicle signal flows using VSS (Vehicle Signal Specification). |
 | **[dreamKIT](https://github.com/eclipse-autowrx/dreamKIT)** | C++ modules for embedded simulation, sensor emulation, and low-level integration with automotive ECUs or virtual ECUs. |
 
@@ -32,7 +31,6 @@ The ultimate goal of Eclipse AutoWRX is to support digital value creation for OE
 | Repository       | Description |
 |------------------|-------------|
 | **[widget-3d-car-unity](https://github.com/eclipse-autowrx/widget-3d-car-unity)** | A Unity-based 3D car visualization widget using ShaderLab. It renders real-time vehicle state and sensor data in a 3D environment. |
-| **[instance-overlay](https://github.com/eclipse-autowrx/instance-overlay)** | CSS and HTML-based UI overlay components for displaying contextual information (e.g., alerts, diagnostics) on top of the main visualization. |
 
 ---
 
@@ -40,7 +38,6 @@ The ultimate goal of Eclipse AutoWRX is to support digital value creation for OE
 
 | Repository       | Description |
 |------------------|-------------|
-| **[learning-journey](https://github.com/eclipse-autowrx/learning-journey)** | Educational resources, tutorials, and onboarding guides for developers and integrators using AutoWRX. |
 | **[docs](https://github.com/eclipse-autowrx/docs)** | HTML-based documentation site for AutoWRX architecture, APIs, integration guides, and developer references. |
 
 ---
@@ -50,8 +47,6 @@ The ultimate goal of Eclipse AutoWRX is to support digital value creation for OE
 | Repository       | Description |
 |------------------|-------------|
 | **[epam-service-connector](https://github.com/eclipse-autowrx/epam-service-connector)** | A connector module for integrating third-party services and tools (e.g., EPAM platforms) with the AutoWRX backend. |
-| **[analytics](https://github.com/eclipse-autowrx/analytics)** | Modules for collecting, processing, and visualizing telemetry and usage data from AutoWRX components. |
-
 ---
 
 ### Infrastructure and Configuration
